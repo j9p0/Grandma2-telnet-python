@@ -10,4 +10,6 @@ you can then use maclient to send your grandma2 commands to maserver and so to y
 
 ./maclient.py "Go 1.1 Cue 1"
 
+servertelnet.py is for testing
+
 It is poorly writen but it works in linux show player
