@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 
 #send command to telenet from linux show player
-#This script will send the commands to Telnetsend.py witch has a telnet connenctoin to ma running in the background
+#This script will send the commands to maserver.py witch has a telnet connenctoin to ma running in the background
 
 import socket
 import sys
