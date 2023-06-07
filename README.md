@@ -13,3 +13,4 @@ you can then use maclient to send your grandma2 commands to maserver and so to y
 servertelnet.py is for testing
 
 It is poorly writen but it works in linux show player
+I suggest putting the scripts in your bin folder if you want it to work in linux show player
