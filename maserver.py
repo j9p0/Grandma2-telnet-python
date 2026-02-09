@@ -32,7 +32,7 @@ time.sleep(5)
 login_cmd = f'Login "{MaUser}" "{MaPass}"\r'
 tn.write(login_cmd.encode('ascii'))
 time.sleep(2)
-print("Login into Grandma2 — check on lightdesk if successful.")
+print("Login into Grandma2 - check on lightdesk if successful.")
 
 
 def server_program():
