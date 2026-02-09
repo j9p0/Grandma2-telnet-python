@@ -2,7 +2,7 @@
 
 ### update 09-02-2026:
 
-Added the version for python3 which I have been using for 2 years already and renamed the old versions in python2 to *_python2
+Added the version for python3 which I have been using for 2 years already and renamed the old versions in python2 to *_python2.py
 
 ### main
 
