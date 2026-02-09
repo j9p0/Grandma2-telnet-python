@@ -21,3 +21,20 @@ servertelnet.py is for testing
 It is poorly writen but it works in linux show player
 
 I suggest putting the scripts in your bin folder if you want it to work in linux show player
+
+### Dependencies
+
+For python 3 version(I don't use the python 2 version anymore your on you own with that one)
+
+- telnetlib
+
+As telnetlib is removed in python 3.13 you will need python standard telnetlib.
+You can find it here https://github.com/youknowone/python-deadlib or install it with your package manager
+
+- socket
+- sys
+- time
+
+Probaly already installed on your system 
+
+
