@@ -29,7 +29,7 @@ For python 3 version(I don't use the python 2 version anymore your on you own wi
 - telnetlib
 
 As telnetlib is removed in python 3.13 you will need python standard telnetlib.
-You can find it here https://github.com/youknowone/python-deadlib or install it with your package manager
+You can find it here https://github.com/youknowone/python-deadlib or install it with your package manager or pip
 
 - socket
 - sys
